@@ -28,6 +28,7 @@ textarea {
 }
 label {
   margin-top: 10px;
+  margin-bottom: 5px;
 }
 form button {
   --accent: rgb(0, 162, 255);
