@@ -31,6 +31,8 @@
   display: inline-flex;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .grid {
@@ -63,7 +65,7 @@
 
 .card:hover .main-content {
   pointer-events: initial;
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .card * {
