@@ -163,7 +163,7 @@ li {
 }
 
 .edit.btn {
-  --accent: green;
+  --accent: orange;
 }
 
 .delete.btn {
@@ -172,7 +172,7 @@ li {
 }
 
 .view.btn {
-  --accent: blue;
+  --accent: skyblue;
   margin-left: 10px;
 }
 
