@@ -26,7 +26,7 @@
 }
 .nav a {
   margin: 0 20px;
-  font-size: 120%;
+  font-size: 110%;
   height: 100%;
   display: inline-flex;
   justify-content: center;
@@ -59,8 +59,6 @@
 
 .card:hover {
   --shadow: rgba(53, 53, 53, 0.103);
-  /* transform: rotateY(180deg) translate(20px, 20px);
-  background: pink; */
 }
 
 .card:hover .main-content {
@@ -144,12 +142,12 @@ li {
 }
 
 .btn {
-  --accent: #434343;
+  --accent: #232323;
   cursor: pointer;
   background: transparent;
   border: 1.5px solid var(--accent);
   color: var(--accent);
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 10px 15px;
   font-size: 90%;
   letter-spacing: 1px;
